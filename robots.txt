@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://carolinachru.github.io/al-folio/sitemap.xml
+Sitemap: https://carolinachru.github.io/sitemap.xml
