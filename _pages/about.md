@@ -25,5 +25,5 @@ I'm a <b>Ph.D. student in Computer Science</b> at the University of Colorado at 
 
 <br>
 Prior to starting my Ph.D. in the fall of 2023, I completed a master's program in <b>Applied Social Data Science</b> at the London School of Economics (LSE) with Distinction and obtained a bachelor's degree in <b>Economics</b> from the Mexico Autonomous Institute of Technology (ITAM). In my professional experience, I have contributed to multidimensional poverty measurements in Mexico during my time at Mexico's [National Council for Evaluation of Social Policy](https://www.coneval.org.mx/Paginas/principal.aspx); contributed to research on technology and gender at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/); and engaged in social statistics work for the data-startup [HACE](https://www.thisishace.com/).
-
+<br>
 <center> ♦ </center>
