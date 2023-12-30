@@ -30,7 +30,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
@@ -66,7 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: https://github.com/carolinachru  # your GitHub user name
+github_username: carolinachru  # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
