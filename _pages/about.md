@@ -31,5 +31,3 @@ Broadly, my research aims to understand <b>how social and gender inequality infl
 
 <br>
 <br>
-<center> ♦ </center>
-<br>
