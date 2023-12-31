@@ -28,3 +28,4 @@ Prior to starting my Ph.D., I completed a master's program in <b>Applied Social 
 <br>
 <br>
 <center> ♦ </center>
+<br>
