@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 I'm a first-year <b>PhD student in Computer Science</b> at the University of Colorado at Boulder (CU Boulder), with a primary focus on Computational Social Science. I'm also pursuing a Graduate Certificate in Women & Gender Studies. My advisors are [Aaron Clauset](https://aaronclauset.github.io/) and [Daniel Acuña](https://acuna.io/).
-
+<br>
 
 <p style="text-indent: 25px;">Broadly, my research aims to understand <b>how social and gender inequality influences the production, creation, and dissemination of knowledge</b>, with a specific emphasis on the scientific ecosystem. Methodologically, I am passionate about leveraging computational science for social science research. </p>
 
