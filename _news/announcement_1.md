@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-{{ page.date | date: "%b %Y" }}
-
 Starting the Computer Science PhD at CU Boulder!
