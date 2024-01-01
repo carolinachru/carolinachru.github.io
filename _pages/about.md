@@ -22,7 +22,7 @@ I'm a first-year <b>PhD student in Computer Science</b> at the University of Col
 
 
 
-Broadly, my research aims to understand <b>how social and gender inequality influences the production, creation, and dissemination of knowledge</b>, with a specific emphasis on the scientific ecosystem. Methodologically, I am passionate about leveraging computational science for social science research.
+Broadly, my research aims to understand <b>how social and gender inequality influences the production, creation, and dissemination of knowledge</b>, with an emphasis on the scientific ecosystem. Methodologically, I am passionate about leveraging computational science for social science research.
 
 
 
