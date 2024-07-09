@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Giving a talk about our on-going research project "Socioeconomic status influences academic scholarship" at the [International Conference on the Science of Science and Innovation (ICSSI)](https://www.icssi.org/)
+Giving a talk about our work in progress "Socioeconomic status influences academic scholarship" at the [International Conference on the Science of Science and Innovation (ICSSI)](https://www.icssi.org/)
