@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p> </p>
 
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <br>
-I'm a first-year <b>PhD student in Computer Science</b> at the University of Colorado at Boulder (CU Boulder), with a primary focus on Computational Social Science and Science of Science. I'm also pursuing a Graduate Certificate in Women and Gender Studies. My advisors are [Aaron Clauset](https://aaronclauset.github.io/) and [Daniel Acuña](https://acuna.io/).
+I'm a second-year <b>PhD student in Computer Science</b> at the University of Colorado at Boulder (CU Boulder), with a primary focus on Computational Social Science and Science of Science. I'm also pursuing a Graduate Certificate in Women and Gender Studies. My advisors are [Aaron Clauset](https://aaronclauset.github.io/) and [Daniel Acuña](https://acuna.io/).
 
 
 
