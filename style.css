@@ -20,10 +20,10 @@ body {
 .profile-pic {
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 0%;
   object-fit: cover;
   display: block;
-  margin: 0 auto 2rem;
+  margin: 0 auto 0rem;
   border: 3px solid #e0e0e0;
 }
 
