@@ -17,6 +17,16 @@ body {
   padding: 3rem 1.5rem;
 }
 
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 2rem;
+  border: 3px solid #e0e0e0;
+}
+
 h1 {
   font-size: 2rem;
   margin-bottom: 1.5rem;
